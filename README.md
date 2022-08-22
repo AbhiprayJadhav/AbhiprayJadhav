@@ -1,5 +1,5 @@
 <h1 align=center>
-  <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Abhipray width=100% height=5% />
+  <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73320&background=F7FF7575&center=true&vCenter=true&width=435&lines=Hi%2C+Abhipray+here+...+!+ width=100% height=5% />
 <br>
 <a href=https://twitter.com/AbhiprayJadhav>
   <img src=https://avatars.githubusercontent.com/twitter width=8% height=8%>
