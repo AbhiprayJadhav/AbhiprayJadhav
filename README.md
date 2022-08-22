@@ -1,34 +1,28 @@
 <h1 align=center>
   <img src=https://readme-typing-svg.herokuapp.com?size=25&color=FFAA44&center=true&vCenter=true&lines=%F0%9D%99%B7%F0%9D%9A%92+%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%8E%2C+%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%92%F0%9D%9A%9F%F0%9D%9A%8A+%F0%9F%91%8B width=100% height=5% />
 <br>
-<a href=https://twitter.com/ShivaShirsath>
+<a href=https://twitter.com/AbhiprayJadhav>
   <img src=https://avatars.githubusercontent.com/twitter width=8% height=8%>
 </a>
-<a href=https://instagram.com/_Shiva_Shirsath__>
+<a href=https://instagram.com/abhi_jadhav_patil_96>
   <img src=icons/insta.svg width=8% height=8%>
 </a>
-<a href=https://wa.me/+919130057189>
+<a href=https://wa.me/+919307697477>
   <img src=icons/whatsapp.svg width=8% height=8%>
 </a>
-<a href=https://facebook.com/Shiva.Shirsath.25>
-  <img src=icons/facebook.svg width=8% height=8%>
-</a>
-<a href=https://t.me/ShivaShirsath>
+<a href=https://t.me/AbhiprayJadhav>
   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png width=8% height=8%>
-</a>
-<a href=https://stackoverflow.com/users/13447550/shiva-shirsath>
-  <img src=icons/stackoverflow.svg width=8% height=8%>
-</a>
-<a href=https://linkedin.com/in/ShivaShirsath>
+</a
+<a href=https://linkedin.com/in/AbhiprayJadhav>
   <img src=https://avatars.githubusercontent.com/linkedin width=8% height=8%>
 </a>
 <a href=https://youtube.com/channel/UCtxyUnbZN8q5Z3ogbClPg-w>
   <img src=icons/yt.svg width=8% height=8%>
 </a>
-<a href=https://ShivaShirsath.github.io>
-  <img src=https://avatars.githubusercontent.com/ShivaShirsath width=8% height=8%>
+<a href=https://AbhiprayJadhav.github.io>
+  <img src=https://avatars.githubusercontent.com/AbhiprayJadhav width=8% height=8%>
 </a>
-<a href=https://g.dev/ShivaShirsath>
+<a href=https://g.dev/AbhiprayJadhav>
   <img src=icons/google-developers.svg width=8% height=8%>
 </a>
 <a href=../../discussions>
@@ -42,7 +36,7 @@
   <a href=https://chat.whatsapp.com/HMUZWVhUTJsD5uwQf5diuD>
     ⚘
   </a>
-  <a href=https://github.com/ShivaShirsath?tab=repositories>
+  <a href=https://github.com/AbhiprayJadhav?tab=repositories>
     I’m currently learning everything...
   </a>
   <a href=https://t.me/OnAndroid>
@@ -94,13 +88,13 @@
 <a href=../../../Flutter>
   <img src=https://avatars.githubusercontent.com/u/14101776 width=5% height=5%/>
 </a>
-<a href=https://vscode.dev/github/ShivaShirsath>
+<a href=https://vscode.dev/github/AbhiprayJadhav>
   <img src=https://vscode.dev/static/stable/code-512.png width=4% height=4%/>
 </a>
-<a href=https://insiders.vscode.dev/github/ShivaShirsath>
+<a href=https://insiders.vscode.dev/github/AbhiprayJadhav>
   <img src=https://insiders.vscode.dev/static/insider/code-512.png width=4% height=4%/>
 </a>
-<a href=https://github.dev/ShivaShirsath/CodeSwing>
+<a href=https://github.dev/AbhiprayJadhav/CodeSwing>
   <img src=https://github.dev/static/gh-512.png width=4% height=4%/>
 </a>
 <a href=#>
@@ -125,6 +119,6 @@
   <img src=https://avatars.githubusercontent.com/php width=5% height=5%>
 </a>
 </h2>
-<a href=https://shivashirsath.github.io/Languages>
-  <img src=https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&icon_color=FF8800&text_color=FFFFFF&hide_title=true&border_color=888888&include_all_commits=true&bg_color=90,000000,000000,FF8800&title_color=00AA00&border_radius=25 width=100% height=100%>
+<a href=https://AbhiprayJadhav.github.io/Languages>
+  <img src=https://github-readme-stats.vercel.app/api?username=AbhiprayJadhav&show_icons=true&icon_color=FF8800&text_color=FFFFFF&hide_title=true&border_color=888888&include_all_commits=true&bg_color=90,000000,000000,FF8800&title_color=00AA00&border_radius=25 width=100% height=100%>
 </a>
