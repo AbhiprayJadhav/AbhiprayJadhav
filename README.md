@@ -16,15 +16,11 @@
 <a href=https://linkedin.com/in/AbhiprayJadhav>
   <img src=https://avatars.githubusercontent.com/linkedin width=8% height=8%>
 </a>
-<a href=https://youtube.com/channel/UCtxyUnbZN8q5Z3ogbClPg-w>
-  <img src=icons/yt.svg width=8% height=8%>
-</a>
+
 <a href=https://AbhiprayJadhav.github.io>
   <img src=https://avatars.githubusercontent.com/AbhiprayJadhav width=8% height=8%>
 </a>
-<a href=https://g.dev/AbhiprayJadhav>
-  <img src=icons/google-developers.svg width=8% height=8%>
-</a>
+
 <a href=../../discussions>
   <img src=https://github.githubassets.com/images/modules/logos_page/Octocat.png width=8% height=8%>
 </a>
