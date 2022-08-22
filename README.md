@@ -8,7 +8,7 @@
   <img src=https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg width=8% height=8%>
 </a>
 <a href=https://wa.me/+919307697477>
-  <img src=icons/whatsapp.svg width=8% height=8%>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg width=8% height=8%>
 </a>
 <a href=https://t.me/AbhiprayJadhav>
   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png width=8% height=8%>
