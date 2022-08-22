@@ -2,10 +2,10 @@
   <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73320&background=F7FF7575&center=true&vCenter=true&width=435&lines=Hi%2C+Abhipray+here+...+!+ width=100% height=5% />
 <br>
 <a href=https://twitter.com/AbhiprayJadhav>
-  <img src=https://avatars.githubusercontent.com/twitter width=8% height=8%>
+  <img src=https://avatars.githubusercontent.com/twitter width=8% height=8%/>
 </a>
 <a href=https://instagram.com/abhi_jadhav_patil_96>
-  <img src=https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg width=8% height=8%>
+  <img src=https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg width=8% height=8%/>
 </a>
 <a href=https://wa.me/+919307697477>
   <img src=icons/whatsapp.svg width=8% height=8%>
