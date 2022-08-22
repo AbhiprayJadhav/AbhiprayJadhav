@@ -1,5 +1,5 @@
 <h1 align=center>
-  <img src=https://readme-typing-svg.herokuapp.com?size=25&color=FFAA44&center=true&vCenter=true&lines=%F0%9D%99%B7%F0%9D%9A%92+%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%8E%2C+%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%92%F0%9D%9A%9F%F0%9D%9A%8A+%F0%9F%91%8B width=100% height=5% />
+  <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Abhipray width=100% height=5% />
 <br>
 <a href=https://twitter.com/AbhiprayJadhav>
   <img src=https://avatars.githubusercontent.com/twitter width=8% height=8%>
